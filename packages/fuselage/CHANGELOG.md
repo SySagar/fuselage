@@ -1,5 +1,17 @@
 # Change Log
 
+## 0.59.3
+
+### Patch Changes
+
+- [#1464](https://github.com/RocketChat/fuselage/pull/1464) [`1ca8371`](https://github.com/RocketChat/fuselage/commit/1ca83712e7da034d8370626b9d6674c1bd706edf) Thanks [@juliajforesti](https://github.com/juliajforesti)! - fix(fuselage): adjust `SidebarCollapseGroup` padding
+
+## 0.59.2
+
+### Patch Changes
+
+- [#1462](https://github.com/RocketChat/fuselage/pull/1462) [`d255394`](https://github.com/RocketChat/fuselage/commit/d2553945363ce35adeb745fb398dc5673e80af23) Thanks [@dougfabris](https://github.com/dougfabris)! - feat(icons): New `question-mark` icon
+
 ## 0.59.1
 
 ### Patch Changes
